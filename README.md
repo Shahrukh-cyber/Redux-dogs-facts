@@ -1,1 +1,1 @@
-# Redux Template
+Dogs Fatch Fetch using Redux Thunk
